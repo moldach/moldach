@@ -7,7 +7,25 @@ I'm an **Experienced Consultant** at <a href="https://www.amaris.com/">@Amaris C
   · <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
  · 
 <br>
+<a href="https://www.amaris.com">Experienced Consultant | Senior Scientific Data Curator @Amaris Consulting</a>
+<br>
+ <p align="center">
+ <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/abhinandantrilokia/"><img src="https://img.shields.io/badge/-Abhinandan%20Trilokia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+<br>
+<br>
+<p align="center">
+ <i>Take a look at my repositories and let's get in touch!</i>
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=oldachm"/> 
 </p>
+
+My major strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications. So I am not a pure geek thinking about technology only but, first, a making-things-happen person
+
+* 👨🏻‍💻 Developer with more then 10 years experience
+* 🌱 I’m currently learning everything 🤣
+* 💡 I love innovation and new technologies
+* ⚡ Fun facts: I love to be in the garden or backcountry split-boarding
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/matthewoldach">
@@ -29,5 +47,3 @@ I'm an **Experienced Consultant** at <a href="https://www.amaris.com/">@Amaris C
 
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=oldachm&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Matthew's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oldachm&layout=compact&langs_count=8&hide_border=true)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=moldach.moldach)
