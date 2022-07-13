@@ -1,5 +1,13 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Matthew Oldach!](https://www.linkedin.com/in/matthewoldach/) an **Experienced Consultant** at <a href="https://www.amaris.com/">@Amaris Consulting </a>. I use Machine Learning, Data Science and Visual Analytics to reveal critical insights.
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Matthew Oldach!](https://www.linkedin.com/in/matthewoldach/) 
+
+<p align="center">
+I'm an **Experienced Consultant** at <a href="https://www.amaris.com/">@Amaris Consulting </a>. I use Machine Learning, Data Science and Visual Analytics to reveal critical insights.
+<br><br>
+  · <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
+ · 
+<br>
+</p>
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/matthewoldach">
@@ -8,6 +16,8 @@
 <a href="https://www.linkedin.com/in/matthewoldach/">
   <img align="left" alt="Matthew Oldach Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
+<br />
+<br />
 
 ### Languages and Tools:
 
