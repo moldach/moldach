@@ -63,7 +63,6 @@ My major strengths are in giving realistic promises, being responsive and respon
 
 ### 📫 How to reach me:
 
-
 <a href="https://www.linkedin.com/in/matthewoldach/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:moldach686@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
@@ -71,6 +70,6 @@ My major strengths are in giving realistic promises, being responsive and respon
 <br />
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=moldach)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moldach)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moldach&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 More about me 👉 [moldach.github.io/](https://moldach.github.io/)
