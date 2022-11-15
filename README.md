@@ -70,7 +70,7 @@ My major strengths are in giving realistic promises, being responsive and respon
 <br />
 <br />
 
-![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=oldachm&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Matthew's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oldachm&layout=compact&langs_count=8&hide_border=true)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=moldach)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moldach)](https://github.com/anuraghazra/github-readme-stats)
 
 More about me 👉 [moldach.github.io/](https://moldach.github.io/)
