@@ -8,7 +8,6 @@ I use Machine Learning, Data Science and Visual Analytics to reveal critical ins
 <br><br>
 
 <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
- · 
 <br>
 <a href="https://www.amaris.com">Experienced Consultant | Senior Scientific Data Curator @Amaris Consulting</a>
 <br>
