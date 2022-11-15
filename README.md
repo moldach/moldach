@@ -3,9 +3,11 @@
 
 <p align="center">
 I'm an Experienced Consultant at <a href="https://www.amaris.com/">@Amaris Consulting </a>. 
-I use Machine Learning, Data Science and Visual Analytics to reveal critical insights.
+<p align="center">
+I use Machine Learning, Data Science and Visual Analytics to reveal critical insights </a>.
 <br><br>
-  · <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
+
+<a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
  · 
 <br>
 <a href="https://www.amaris.com">Experienced Consultant | Senior Scientific Data Curator @Amaris Consulting</a>
@@ -24,13 +26,12 @@ I use Machine Learning, Data Science and Visual Analytics to reveal critical ins
 My major strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications. So I am not a pure geek thinking about technology only but, first, a making-things-happen person
 
 * 🇨🇦 I'm From Canada
-* 
 * 👨🏻‍💻 Developer with more then 10 years experience
 * 👨‍🎓 M.Sc., in Biological Sciences (2013-2015) from University of Calgary 🤠
 * 👩‍🏫 Love teaching and sharing knowledge
 * 🌱 I’m currently learning everything 🤣
 * 💡 I love innovation and new technologies
-* 😍 I love to be in the garden 🏡 or in the backcountry split-boarding 🏂
+* 😍 I love to be in the garden 🏡 the backcountry split-boarding 🏂 or on the water, stand-up paddleboarding  🛶
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/matthewoldach">
@@ -60,7 +61,7 @@ My major strengths are in giving realistic promises, being responsive and respon
 <br />
 <br />
 
-### 📫 &nbsp; How to reach me:
+### 📫 How to reach me:
 
 
 <a href="https://www.linkedin.com/in/matthewoldach/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
