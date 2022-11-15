@@ -2,7 +2,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Matthew Oldach!](https://www.linkedin.com/in/matthewoldach/) 
 
 <p align="center">
-I'm an Experienced Consultant at <a href="https://www.amaris.com/">@Amaris Consulting </a>. I use Machine Learning, Data Science and Visual Analytics to reveal critical insights.
+I'm an Experienced Consultant at <a href="https://www.amaris.com/">@Amaris Consulting </a>. 
+I use Machine Learning, Data Science and Visual Analytics to reveal critical insights.
 <br><br>
   · <a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
  · 
