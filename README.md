@@ -7,7 +7,8 @@ I'm an Experienced Consultant at <a href="https://www.amaris.com/">@Amaris Consu
 I use Machine Learning, Data Science and Visual Analytics to reveal critical insights </a>.
 <br><br>
 
-<a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a>
+<p align="center">
+<a href="https://drive.google.com/file/d/1eRxlrHlz19RXMuzFSNEDq9_6h7qfDSyU/view?usp=sharing">Resume</a> </a>
 <br>
 <a href="https://www.amaris.com">Experienced Consultant | Senior Scientific Data Curator @Amaris Consulting</a>
 <br>
