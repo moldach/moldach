@@ -13,7 +13,7 @@ I use Machine Learning, Data Science and Visual Analytics to reveal critical ins
 <a href="https://www.amaris.com">Experienced Consultant | Senior Scientific Data Curator @Amaris Consulting</a>
 <br>
  <p align="center">
- <a href="https://twitter.com/moldach"><img src="https://img.shields.io/twitter/follow/moldach?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/moldach"><img src="https://img.shields.io/twitter/follow/MattOldach?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/matthewoldach/"><img src="https://img.shields.io/badge/-Matthew%20Oldach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/matthewoldach/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 <br>
 <br>
