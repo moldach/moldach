@@ -4,7 +4,8 @@
 <p align="center">
 I'm an Senior Consultant and Team Leader (leading a team of 5 consultants) at <a href="https://www.amaris.com/">@Amaris Consulting </a>. 
 <p align="center">
-Experienced Bioinformatician, Data Scientist, and DevOps professional. As a seasoned professional, I possess a diverse technical skill set that encompasses data wrangling, statistical modeling, machine learning, shiny, data visualization, report automation, code-optimization, AWS, Docker, workflow orchestrators. I am adept at implementing robust CI/CD (Continuous Integration/Continuous Delivery) pipelines, ensuring efficient and dependable software delivery. My expertise lies not only in driving technological advancements but also in effectively managing release processes, debugging intricate issues, and conducting comprehensive unit testing and quality assurance. With a holistic approach, I consistently strive to optimize software development practices and deliver exceptional results. </a>.
+I am an experienced professional in Bioinformatics, Data Science, and DevOps. With a diverse skill set, I excel in various technical areas such as data wrangling, statistical modeling, machine learning, shiny, data visualization, report automation, code optimization, AWS, Docker, and workflow orchestrators. My expertise extends to implementing robust CI/CD (Continuous Integration/Continuous Delivery) pipelines, ensuring efficient and reliable software delivery. I have a strong aptitude for managing release processes, troubleshooting complex issues, and conducting thorough unit testing and quality assurance. By adopting a holistic approach, I continuously optimize software development practices and consistently deliver exceptional results.
+</a>.
 <br><br>
 
 <p align="center">
@@ -25,7 +26,6 @@ Experienced Bioinformatician, Data Scientist, and DevOps professional. As a seas
 
 My major strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications. So I am not a pure geek thinking about technology only but, first, a making-things-happen person
 
-* I'm a Remote Developer 
 * 🇨🇦 I'm From Calgary Canada
 * 🏠👨‍💻 (Remote) Developer with more then 12 years experience
 * 👨‍🎓 M.Sc., in Biological Sciences (2013-2015) from University of Calgary 🤠
@@ -106,7 +106,7 @@ My major strengths are in giving realistic promises, being responsive and respon
   - [![RStudio Community: R Markdown](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2FR-Markdown.json)](https://community.rstudio.com/c/R-Markdown)
   - [![RStudio Community: tidyverse](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Ftidyverse.json)](https://community.rstudio.com/c/tidyverse)
   - [![RStudio Community: Package development](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Fpackage-development.json)](https://community.rstudio.com/c/package-development)
-  - ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### 🛠 ML/DL
 
