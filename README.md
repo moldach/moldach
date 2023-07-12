@@ -2,7 +2,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Matthew Oldach!](https://www.linkedin.com/in/matthewoldach/) 
 
 <p align="center">
-I'm an **Senior Consultant** and **Team Leader** (leading a team of 5 consultants) at <a href="https://www.amaris.com/">@Amaris Consulting </a>. 
+I'm an Senior Consultant and Team Leader (leading a team of 5 consultants) at <a href="https://www.amaris.com/">@Amaris Consulting </a>. 
 <p align="center">
 Experienced Bioinformatician, Data Scientist, and DevOps professional. As a seasoned professional, I possess a diverse technical skill set that encompasses data wrangling, statistical modeling, machine learning, shiny, data visualization, report automation, code-optimization, AWS, Docker, workflow orchestrators. I am adept at implementing robust CI/CD (Continuous Integration/Continuous Delivery) pipelines, ensuring efficient and dependable software delivery. My expertise lies not only in driving technological advancements but also in effectively managing release processes, debugging intricate issues, and conducting comprehensive unit testing and quality assurance. With a holistic approach, I consistently strive to optimize software development practices and deliver exceptional results. </a>.
 <br><br>
