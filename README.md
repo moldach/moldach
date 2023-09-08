@@ -27,7 +27,7 @@ I am an experienced professional in Bioinformatics, Data Science, and DevOps. Wi
 My major strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications. So I am not a pure geek thinking about technology only but, first, a making-things-happen person
 
 * 🇨🇦 I'm From Calgary Canada
-* 🏠👨‍💻 (Remote) Developer with more then 12 years experience
+* 🏠👨‍💻 (Remote) Developer with more then 13 years experience
 * 👨‍🎓 M.Sc., in Biological Sciences (2013-2015) from University of Calgary 🤠
 * 👩‍🏫 Love teaching and sharing knowledge
 * 🌱 I’m currently learning everything 🤣
